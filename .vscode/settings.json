@@ -16,6 +16,6 @@
         "./Barky"
     ],
     "python.testing.pytestArgs": [
-        "."
+        "Testing_Barky"
     ]
 }

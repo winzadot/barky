@@ -1,11 +1,6 @@
-# APP Code CIDM 6330 Spring 2021
+Assignment 3- Test 
+https://github.com/winzadot/barky
 
-https://github.com/cosmicpython/code.git
+Created this project in a Virtual environment
+Steps to create https://iecpdsa.blogspot.com/2021/02/import-packages-and-virtual-environment.html
 
-git clone --branch chapter_01_domain_model https://github.com/cosmicpython/code.git
-
-# Components of this Repo:
-
-* **APP** - Arhictecture Patterns in Python
-* **Testing** - Separate Materials on Testing
-* **Barky** - a derivative of Dane Hillard's Bark app, transformed to follow along with Percival and Gregory's material
